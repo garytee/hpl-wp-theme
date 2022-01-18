@@ -1,0 +1,28 @@
+#Connecting{
+    display: none !important;
+}
+
+.BGLogo{
+    display: none !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+    max-height: 0 !important;
+    max-width: 0 !important;
+}
+
+#Lobby{
+    margin: 0px auto;
+    left: 0px;
+    right: 0px;
+}
+
+#Login{
+    margin: 0px auto;
+    left: 0px;
+    right: 0px;
+}
+
+.dialog{
+    border-radius: 10px;
+}
